@@ -1,0 +1,7 @@
+check for node
+npx create-react-app myapp -> for new react app (or) npm install -g create-react-app myapp
+cd myapp
+npm start
+React router DOM
+new terminal -> npm i react-router-dom
+npm i react-icons sass
