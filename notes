@@ -5,3 +5,4 @@ npm start
 React router DOM
 new terminal -> npm i react-router-dom
 npm i react-icons sass
+npm i react-router-hash-link
